@@ -1,6 +1,6 @@
 title: Dark Cat
 author:
-  name: axcora
+  name: contakkami
   email: axcora@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A new jekyll bootstrap generation  ,
@@ -16,7 +16,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: hockeycomp
-    github:  mesinkasir
+    github:  contakkami
     # devto: jekyll
     # dribbble: jekyll
     facebook: mesinkasircomplete
